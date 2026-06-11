@@ -1,0 +1,651 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "22.1.0"
+  },
+  "showall": true,
+  "lang": "en",
+  "dark": "enable",
+  "favicon": "🌻",
+  "tabtitle": "✦ Meow",
+  "greeting": "Ryo",
+  "greetingsize": "3",
+  "greetingsmode": "auto",
+  "pagegap": 1.5,
+  "pagewidth": 1600,
+  "time": false,
+  "main": false,
+  "dateformat": "auto",
+  "quicklinks": true,
+  "textShadow": 0,
+  "announcements": "off",
+  "review": -1,
+  "css": "aside {\n\tbackground-color: #2a292d;\n}\n\n#linkblocks.large {\n\t--row-gap: 2em;\n}\n.backgrounds .link div {\n\tbackground: none;\n}",
+  "hide": {
+    "clock": false,
+    "date": false,
+    "settingsicon": true,
+    "weatherdesc": true,
+    "weathericon": false
+  },
+  "clock": {
+    "size": 1,
+    "ampm": false,
+    "analog": false,
+    "seconds": false,
+    "ampmlabel": false,
+    "ampmposition": "top-left",
+    "worldclocks": false,
+    "timezone": "+07:00",
+    "face": "none"
+  },
+  "linkstyle": "large",
+  "linktitles": false,
+  "linkbackgrounds": true,
+  "linknewtab": false,
+  "linksrow": "8",
+  "linkiconradius": 1.1,
+  "linkgroups": {
+    "on": true,
+    "selected": "Meow",
+    "groups": [
+      "Meow",
+      "Web"
+    ],
+    "pinned": [],
+    "synced": []
+  },
+  "backgrounds": {
+    "type": "files",
+    "fadein": 600,
+    "blur": 3,
+    "bright": 0.79,
+    "frequency": "hour",
+    "color": "#185A63",
+    "urls": "",
+    "images": "bonjourr-images-daylight",
+    "videos": "bonjourr-videos-daylight",
+    "mute": false,
+    "queries": {},
+    "texture": {
+      "type": "none"
+    }
+  },
+  "worldclocks": [],
+  "analogstyle": {
+    "face": "none",
+    "hands": "modern",
+    "shape": "round",
+    "border": "#ffff",
+    "background": "#fff2"
+  },
+  "weather": {
+    "city": "ho-chi-minh-city",
+    "unit": "metric",
+    "provider": "",
+    "moreinfo": "none",
+    "forecast": "auto",
+    "temperature": "actual",
+    "geolocation": "off",
+    "ccode": "VN",
+    "fcHigh": 13,
+    "fcLast": 1699365600
+  },
+  "greetingscustom": {
+    "morning": "",
+    "afternoon": "",
+    "evening": "",
+    "night": ""
+  },
+  "notes": {
+    "on": false,
+    "background": "#fff0",
+    "width": 20,
+    "opacity": 0.2,
+    "align": "center",
+    "text": "✦"
+  },
+  "searchbar": {
+    "on": false,
+    "opacity": 0.2,
+    "newtab": false,
+    "suggestions": true,
+    "engine": "google",
+    "request": "",
+    "placeholder": "Meow"
+  },
+  "quotes": {
+    "on": false,
+    "type": "classic",
+    "frequency": "day",
+    "author": false,
+    "last": 1781134911000,
+    "userlist": ""
+  },
+  "pomodoro": {
+    "on": false,
+    "mode": "pomodoro",
+    "pause": 0,
+    "end": 0,
+    "timeFor": {
+      "pomodoro": 1500,
+      "break": 300,
+      "longbreak": 1200
+    },
+    "focus": false,
+    "sound": true,
+    "volume": "marimba",
+    "alarm": "marimba",
+    "history": []
+  },
+  "font": {
+    "size": "15.1",
+    "family": "Work Sans",
+    "system": false,
+    "weightlist": [],
+    "weight": "400"
+  },
+  "supporters": {
+    "enabled": false,
+    "closed": true,
+    "month": 1
+  },
+  "move": {
+    "selection": "single",
+    "layouts": {
+      "double": {
+        "grid": [
+          [
+            "time",
+            "."
+          ],
+          [
+            "main",
+            "."
+          ],
+          [
+            "searchbar",
+            "."
+          ],
+          [
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      },
+      "single": {
+        "grid": [
+          [
+            "quicklinks"
+          ]
+        ],
+        "items": {}
+      },
+      "triple": {
+        "grid": [
+          [
+            ".",
+            "time",
+            "."
+          ],
+          [
+            ".",
+            "main",
+            "."
+          ],
+          [
+            ".",
+            "quicklinks",
+            "."
+          ]
+        ],
+        "items": {}
+      }
+    }
+  },
+  "linksaobdjc": {
+    "_id": "linksaobdjc",
+    "order": 14,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://chat.zalo.me/"
+  },
+  "linksbgbqic": {
+    "_id": "linksbgbqic",
+    "order": 43,
+    "parent": "Meow",
+    "title": "Dev",
+    "url": "https://discord.com/channels/@me",
+    "icon": {
+      "type": "auto"
+    }
+  },
+  "linksbhinmo": {
+    "_id": "linksbhinmo",
+    "order": 20,
+    "parent": "Meow",
+    "title": "Gemini",
+    "url": "https://gemini.google.com/app?hl=vi"
+  },
+  "linksbohrfi": {
+    "_id": "linksbohrfi",
+    "order": 31,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://open.spotify.com/"
+  },
+  "linkscbojmg": {
+    "_id": "linkscbojmg",
+    "order": 37,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://vercel.com"
+  },
+  "linksclrbhn": {
+    "_id": "linksclrbhn",
+    "order": 32,
+    "parent": "Meow",
+    "title": "Mp3",
+    "url": "https://classikappliancerepair.ca/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/7566/7566380.png"
+    }
+  },
+  "linksclrljr": {
+    "_id": "linksclrljr",
+    "order": 29,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://support.pavietnam.vn/index.php?pa=service&flag=1&flag_id=0&type=",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/9512/9512233.png"
+    }
+  },
+  "linkscqcphk": {
+    "_id": "linkscqcphk",
+    "order": 36,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://www.instagram.com/"
+  },
+  "linksdccpin": {
+    "_id": "linksdccpin",
+    "order": 39,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://animevietsub.id/tu-phim",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/16912/16912426.png"
+    }
+  },
+  "linksddpfci": {
+    "_id": "linksddpfci",
+    "order": 41,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://glitch.com/edit/#!/mesquite-mahogany-monkey?path=src%2Fserver.js%3A159%3A3"
+  },
+  "linksdobahd": {
+    "_id": "linksdobahd",
+    "order": 34,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://idx.google.com/meow-45165707",
+    "icon": {
+      "type": "url",
+      "value": "https://www.gstatic.com/monospace/250314/icon-192.png"
+    }
+  },
+  "linkseijqkm": {
+    "_id": "linkseijqkm",
+    "order": 44,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://wplace.live"
+  },
+  "linksekhrop": {
+    "_id": "linksekhrop",
+    "order": 35,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://es.pinterest.com/ryohuy/_pins/",
+    "icon": {
+      "type": "auto"
+    }
+  },
+  "linksfffhjl": {
+    "_id": "linksfffhjl",
+    "order": 17,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://grok.com/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/2252/2252143.png"
+    }
+  },
+  "linksgaflik": {
+    "_id": "linksgaflik",
+    "order": 30,
+    "parent": "Meow",
+    "title": "Donates",
+    "url": "https://ko-fi.com/ryokr"
+  },
+  "linksgdeqbm": {
+    "_id": "linksgdeqbm",
+    "order": 26,
+    "parent": "Meow",
+    "title": "Mp3 Tag",
+    "url": "https://tagmp3.net/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/17146/17146907.png"
+    }
+  },
+  "linksgfqdec": {
+    "_id": "linksgfqdec",
+    "order": 22,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://music.youtube.com/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn.iconscout.com/icon/free/png-512/free-youtube-music-icon-download-in-svg-png-gif-file-formats--logo-social-media-pack-logos-icons-5575174.png?f=webp&w=256"
+    }
+  },
+  "linksgpigal": {
+    "_id": "linksgpigal",
+    "order": 2,
+    "parent": "Web",
+    "title": "",
+    "url": "https://scrnshts.club/"
+  },
+  "linkshclncr": {
+    "_id": "linkshclncr",
+    "order": 25,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://tinywow.com/"
+  },
+  "linkshlibbb": {
+    "_id": "linkshlibbb",
+    "order": 24,
+    "parent": "Meow",
+    "title": "Upscaler",
+    "url": "https://imgupscaler.com/"
+  },
+  "linkshqgdgh": {
+    "_id": "linkshqgdgh",
+    "order": 42,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://www.tiktok.com/"
+  },
+  "linkshrbrdq": {
+    "_id": "linkshrbrdq",
+    "order": 10,
+    "parent": "Meow",
+    "title": "Render",
+    "url": "https://dashboard.render.com/",
+    "icon": {
+      "type": "auto",
+      "value": "https://services.bonjourr.fr/favicon/blob/https://dashboard.render.com/?r=1741286095456"
+    }
+  },
+  "linksieprda": {
+    "_id": "linksieprda",
+    "order": 8,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://chat.openai.com/"
+  },
+  "linksiljdhm": {
+    "_id": "linksiljdhm",
+    "order": 0,
+    "parent": "Web",
+    "title": "",
+    "url": "https://iconsax.io/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/16511/16511176.png"
+    }
+  },
+  "linksipaknh": {
+    "_id": "linksipaknh",
+    "order": 19,
+    "parent": "Meow",
+    "title": "DeepSeek",
+    "url": "https://chat.deepseek.com/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/7208/7208893.png"
+    }
+  },
+  "linksjbpbma": {
+    "_id": "linksjbpbma",
+    "order": 11,
+    "parent": "Meow",
+    "title": "Moniters",
+    "url": "https://uptime.betterstack.com/team/221902/monitors"
+  },
+  "linksjinhla": {
+    "_id": "linksjinhla",
+    "order": 16,
+    "parent": "Meow",
+    "title": "Github",
+    "url": "https://github.com"
+  },
+  "linksjjimcj": {
+    "_id": "linksjjimcj",
+    "order": 13,
+    "parent": "Meow",
+    "title": "TDTU",
+    "url": "https://stdportal.tdtu.edu.vn/Login/Index?ReturnUrl=https%3A%2F%2Fstdportal.tdtu.edu.vn%2F",
+    "icon": {
+      "type": "url",
+      "value": "https://stdportal.tdtu.edu.vn/logo.ico"
+    }
+  },
+  "linkskcekde": {
+    "_id": "linkskcekde",
+    "order": 23,
+    "parent": "Meow",
+    "title": "Youtube",
+    "url": "https://www.youtube.com/feed/you",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/2504/2504965.png"
+    }
+  },
+  "linkslbbmof": {
+    "_id": "linkslbbmof",
+    "order": 2,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://moewalls.com/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/4671/4671164.png"
+    }
+  },
+  "linkslpbkjf": {
+    "_id": "linkslpbkjf",
+    "order": 27,
+    "parent": "Meow",
+    "title": "Pixiv",
+    "url": "https://www.pixiv.net/en/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/9941/9941787.png"
+    }
+  },
+  "linkslrpajb": {
+    "_id": "linkslrpajb",
+    "order": 1,
+    "parent": "Web",
+    "title": "",
+    "url": "https://land-book.com/"
+  },
+  "linksmejdhn": {
+    "_id": "linksmejdhn",
+    "order": 12,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://elearning.tdtu.edu.vn/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/16803/16803995.png"
+    }
+  },
+  "linksmmpeoc": {
+    "_id": "linksmmpeoc",
+    "order": 0,
+    "parent": "Meow",
+    "title": "Trans",
+    "url": "https://translate.google.com/?hl=vi&sl=en&tl=vi&op=translate",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/2875/2875427.png"
+    }
+  },
+  "linksmqdorc": {
+    "_id": "linksmqdorc",
+    "order": 6,
+    "parent": "Meow",
+    "title": "Drive",
+    "url": "https://drive.google.com/drive/u/0/my-drive",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/281/281771.png"
+    }
+  },
+  "linksnaqraj": {
+    "_id": "linksnaqraj",
+    "order": 38,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://felistars.nl/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/18202/18202847.png?r=1770562016075?r=1770562020274"
+    }
+  },
+  "linksnbgeac": {
+    "_id": "linksnbgeac",
+    "order": 5,
+    "parent": "Meow",
+    "title": "OneDrive",
+    "url": "https://onedrive.live.com",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/732/732221.png"
+    }
+  },
+  "linksnemida": {
+    "_id": "linksnemida",
+    "order": 9,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://ryo.id.vn/",
+    "icon": {
+      "type": "auto"
+    }
+  },
+  "linksnmqafb": {
+    "_id": "linksnmqafb",
+    "order": 33,
+    "parent": "Meow",
+    "title": "Pic",
+    "url": "https://images.google.com/",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/3792/3792702.png"
+    }
+  },
+  "linksnrdqfe": {
+    "_id": "linksnrdqfe",
+    "order": 15,
+    "parent": "Meow",
+    "title": "Face",
+    "url": "https://facebook.com",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/2504/2504903.png"
+    }
+  },
+  "linksomrlnh": {
+    "_id": "linksomrlnh",
+    "order": 3,
+    "parent": "Meow",
+    "title": "Point",
+    "url": "https://www.bing.com/search?q=Roxy+Migurdia&form=QBLH&sp=-1&lq=0&pq=Roxy+Migurdia&sc=10-13&qs=n&sk=&cvid=4B4430F7FD994A49A02D047730DCF762&ghsh=0&ghacc=0&ghpl=",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/5968/5968890.png"
+    }
+  },
+  "linksopjcdj": {
+    "_id": "linksopjcdj",
+    "order": 18,
+    "parent": "Meow",
+    "title": "QQ",
+    "url": "https://truyenqqno.com/truyen-dang-theo-doi.html",
+    "icon": {
+      "type": "auto"
+    }
+  },
+  "linksphmidb": {
+    "_id": "linksphmidb",
+    "order": 21,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://studio.youtube.com/channel/UCxIjfU_oWMomNu_OjaYX1vA/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D"
+  },
+  "linkspkagnn": {
+    "_id": "linkspkagnn",
+    "order": 40,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://www.awwwards.com/"
+  },
+  "linkspnmjho": {
+    "_id": "linkspnmjho",
+    "order": 1,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://discord.builders",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/128/8373/8373708.png"
+    }
+  },
+  "linkspnmpan": {
+    "_id": "linkspnmpan",
+    "order": 7,
+    "parent": "Meow",
+    "title": "Meow",
+    "url": "https://mail.google.com/mail/u/0/?tab=wm#inbox",
+    "icon": {
+      "type": "url",
+      "value": "https://cdn-icons-png.flaticon.com/512/5968/5968534.png"
+    }
+  },
+  "linksrdenff": {
+    "_id": "linksrdenff",
+    "order": 4,
+    "parent": "Meow",
+    "title": "Copilot",
+    "url": "https://copilot.microsoft.com/"
+  },
+  "linksrfniki": {
+    "_id": "linksrfniki",
+    "order": 28,
+    "parent": "Meow",
+    "title": "",
+    "url": "https://www.tunemymusic.com/"
+  }
+}
